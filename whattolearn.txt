@@ -2,3 +2,5 @@ unix
 bash
 git
 lucas
+Back-end
+Front-end
