@@ -2,3 +2,5 @@ unix
 bash
 git
 lucas
+HTML
+CSS
