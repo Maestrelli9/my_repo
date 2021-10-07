@@ -2,7 +2,7 @@
 Sou Carioca, formado em Jogos Digitais e atualmente curso Desenvolvimento Web na Trybe 🚀.
 
 ### Meus interesses:
-- Estou estudando *backend*, mais especificamente **MongoDB** e **SQL** na parte de banco de dados.
+- Estou estudando *backend*, mais especificamente **MongoDB** e **MySQL** na parte de banco de dados.
 - Meus hobbies são **Jogos** e qualquer tipo de **leitura** de ficção.
 - Sou apaixonado em aprender línguas sejam elas *códigos* ou *idiomas*.
   - Estou sempre aberto a aprender novas linguagens.
@@ -12,3 +12,12 @@ Sou Carioca, formado em Jogos Digitais e atualmente curso Desenvolvimento Web na
 
 #### Meus conhecimentos incluem:
 ![react](https://bognarjunior.files.wordpress.com/2018/03/if_react-js_logo_1174949.png)
+
+
+
+
+
+
+
+
+
