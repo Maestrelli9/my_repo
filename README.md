@@ -8,7 +8,7 @@ Sou Carioca, formado em Jogos Digitais e atualmente curso Desenvolvimento Web na
   - Estou sempre aberto a aprender novas linguagens.
   - Sou Fluente/Avançado em inglês, tenho Italiano e Espanhol básicos e Francês básico-intermediário.
 - 📫 Por favor, envie um *email* para lucasmaestrelli95@gmail.com para me encontrar.
-- Agora se você clicar **[Aqui]**(https://www.linkedin.com/in/lucas-maestrelli/) você irá para o meu *linkedin*.
+- Agora se você clicar **[Aqui](https://www.linkedin.com/in/lucas-maestrelli/)** você irá para o meu *linkedin*.
 
 #### Meus conhecimentos incluem:
-![react](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png/150/150)
+![react](https://bognarjunior.files.wordpress.com/2018/03/if_react-js_logo_1174949.png)
