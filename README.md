@@ -11,4 +11,4 @@ Sou Carioca, formado em Jogos Digitais e atualmente curso Desenvolvimento Web na
 - Agora se você clicar **[Aqui]**(https://www.linkedin.com/in/lucas-maestrelli/) você irá para o meu *linkedin*.
 
 #### Meus conhecimentos incluem:
-![react](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
+![react](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png/20/20)
